@@ -2,6 +2,10 @@
 
 <div> <img align="center" alt="Header" src="img/githeader.png"/> </div> 
 
+<div align="center">
+  <p>Que tal desenvolvermos soluções práticas em projetos reais juntos? 🚀</p>
+</div>
+
 -----
 
 <h2>🔊​​ Me contate!</h2>
@@ -41,10 +45,6 @@
  <td align="center" colspan="11"></td>
 </tr> 
 </table>
-</div>
-
-<div align="center">
-  <p>Que tal desenvolvermos soluções práticas em projetos reais juntos? 🚀</p>
 </div>
 
 <div align="justify">
