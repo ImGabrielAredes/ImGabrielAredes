@@ -43,8 +43,6 @@
 </table>
 </div>
 
------
-
 <div align="center">
   <p>Que tal desenvolvermos soluções práticas em projetos reais juntos? 🚀</p>
 </div>
