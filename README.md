@@ -28,7 +28,7 @@
   </td>
   <td>
     <a href="https://wa.me/5531981133139" target="_blank">
-      <img src="img/iconwhats.png" width="50px" height="50px"/>
+      <img src="img/iconwhatss.png" width="50px" height="50px"/>
     </a>
   </td>
   <td>
