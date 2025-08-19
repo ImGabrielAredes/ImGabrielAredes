@@ -4,7 +4,7 @@
 
 -----
 
-<h3>🔊​​ Me contate!</h3>
+<h2>🔊​​ Me contate!</h2>
 <div align="center">
 <table>
 <tr>
@@ -43,8 +43,10 @@
 </table>
 </div>
 
+-----
+
 <div align="center">
-  <h3>Que tal desenvolvermos soluções práticas em projetos reais juntos? 🚀</h3>
+  <p>Que tal desenvolvermos soluções práticas em projetos reais juntos? 🚀</p>
 </div>
 
 <div align="justify">
