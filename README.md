@@ -55,7 +55,7 @@
     <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.  
     Constantemente buscando transformar aprendizado em <code>prática</code>, 
     convido-o a dar uma olhada no meu portfólio (link futuro)!
-  </i> :man_teacher:
+  </i>
 </div>
 
 -----
