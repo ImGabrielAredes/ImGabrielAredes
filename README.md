@@ -174,7 +174,7 @@
 </table>
 <table>
 <tr>
- <td align="center">:octocat: <a href="https://www.githubwrapped.io/ImGabrielAredes" target="_blank">GitHub Wrapped</a></td>
+
  <td align="center">:watch: <a href="https://wakatime.com/@Gabriel_Aredes">WakaTime</a></td>
 </tr>
 <tr>
