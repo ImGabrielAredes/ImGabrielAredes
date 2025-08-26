@@ -148,6 +148,17 @@
 </tr> 
 <tr>
 <td>
+  # 📊 Minhas Estatísticas
+
+<!-- Estatísticas do GitHub -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ImGabrielAredes&show_icons=true&theme=dark)
+
+<!-- Linguagens mais usadas -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_GITHUB_USER&layout=compact&theme=dark)
+
+<!-- Estatísticas do WakaTime -->
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gabriel_Aredes&layout=compact&theme=dark)
+
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gabriel_Aredes&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
 </td>
 <td>
