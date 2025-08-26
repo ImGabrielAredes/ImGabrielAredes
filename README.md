@@ -154,7 +154,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ImGabrielAredes&show_icons=true&theme=dark)
 
 <!-- Linguagens mais usadas -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_GITHUB_USER&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImGabrielAredes&layout=compact&theme=dark)
 
 <!-- Estatísticas do WakaTime -->
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gabriel_Aredes&layout=compact&theme=dark)
