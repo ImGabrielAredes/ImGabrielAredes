@@ -156,7 +156,7 @@
 <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGabrielAredes&theme=dark&locale=pt-br&langs_count=7"/>
 </td>
 <td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel_Aredes&layout=pie&theme=dark&locale=pt-br"/>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGabrielAredes&layout=pie&theme=dark&locale=pt-br"/>
 </td>
 </tr>
 <tr>
