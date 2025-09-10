@@ -169,7 +169,7 @@
 </tr>
 <tr>
 <td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImGabrielAredes&theme=dark&layout=compact"/>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gabriel_Aredes&theme=dark&layout=compact"/>
 </td>
 </tr>
 </table>
