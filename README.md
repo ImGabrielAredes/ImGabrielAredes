@@ -165,7 +165,7 @@
 </table>
 <table>
 <tr>
- <td align="center">:watch: <a href="https://github-readme-stats.vercel.app/api/wakatime?username=ImGabrielAredes">WakaTime</a></td>
+ <td align="center">:watch: <a href="https://wakatime.com/@Gabriel_Aredes">WakaTime</a></td>
 </tr>
 <tr>
 <td>
