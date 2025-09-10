@@ -169,7 +169,7 @@
 </tr>
 <tr>
 <td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gabriel_Aredes&theme=dark&layout=compact"/>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=ImGabrielAredes&theme=dark&layout=compact"/>
 </td>
 </tr>
 </table>
@@ -179,13 +179,13 @@
 </tr> 
 <tr>
 <td>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabriel_Aredes&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImGabrielAredes&theme=github_dark"/>
 </td>
 <td>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ImGabrielAredes&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel_Aredes&theme=github_dark"/>
+<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImGabrielAredes&theme=github_dark"/>
 </td>
 </tr>
 <tr>
