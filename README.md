@@ -149,32 +149,6 @@
 <tr>
 <td>
   # 📊 Minhas Estatísticas
-
-<!-- Estatísticas do GitHub -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ImGabrielAredes&show_icons=true&theme=dark)
-
-<!-- Linguagens mais usadas -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImGabrielAredes&layout=compact&theme=dark)
-
-<!-- Estatísticas do WakaTime -->
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gabriel_Aredes&layout=compact&theme=dark)
-
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGabrielAredes&theme=dark&locale=pt-br&langs_count=7"/>
-</td>
-<td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gabriel_Aredes&theme=dark&locale=pt-br&langs_count=7"/>
-</td>
-<td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gabriel_Aredes&layout=pie&theme=dark&locale=pt-br"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-</table>
-<table>
-<tr>
-
  <td align="center">:watch: <a href="https://wakatime.com/@Gabriel_Aredes">WakaTime</a></td>
 </tr>
 <tr>
@@ -196,13 +170,13 @@
 </tr> 
 <tr>
 <td>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImGabrielAredes&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="https://github-readme-stats.vercel.app/api?username=Gabriel_Aredes&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
 </td>
 <td>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ImGabrielAredes&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel_Aredes&theme=dark&locale=pt-br&langs_count=7"/>
 </td>
 <td>
-<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImGabrielAredes&theme=github_dark"/>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel_Aredes&layout=pie&theme=dark&locale=pt-br"/>
 </td>
 </tr>
 <tr>
