@@ -227,7 +227,8 @@
 <div>
 <details>
 <summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?raw=true"/> Aredes's Spotify Data</summary>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=srfg6qzmbhhta4te7dqu3xlpe" alt="Data Card for Spotify">
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=srfg6qzmbhhta4te7dqu3xlpe" alt="Data Card for Spotify">
+</a>
 </details>
 </div>
 
